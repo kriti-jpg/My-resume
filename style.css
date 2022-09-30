@@ -1,26 +1,5 @@
-.Hi{
-      background-color: aqua;
-      color: white;
-      text-transform: uppercase;
-      text-align: center;
-}
-
-.Lorem{
-      background-color: blue;
-      height: 200px;
-      width: 1000px;
-      
-}
-
-.anotherdiv{
-      background-color: aqua;
-      height: 150px;
-      width: 1000px;
-
-}
-
 .Hola{
-      background-color: blue;
-      height: 150px;
-      width: 600px;
+      background-color: aqua;
+      height: 400px;
+      width: 500px;
 }
