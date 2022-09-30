@@ -1,5 +1,12 @@
-.Hola{
-      background-color: aqua;
-      height: 400px;
-      width: 500px;
+.Margin{
+      margin-top: 200px;
+      margin-left: 500px;
+      background-color: rgb(150, 150, 225);
+      padding-left: 500px;
+      padding-right: 600px;
+      padding-top: 300px;  
+      padding-bottom: 400px;    
+
+      
 }
+
