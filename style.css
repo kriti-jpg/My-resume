@@ -11,10 +11,13 @@
 }
 
 .HI{
-      display:inline;
+      width: 200px;
+      background-color: blanchedalmond;
+      display: inline-block;
 }
 
 .Hi{
       display: inline;
+      height: 500px;
 }
 
