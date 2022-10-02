@@ -1,23 +1,22 @@
-.Margin{
-      margin-top: 200px;
-      margin-left: 500px;
-      background-color: rgb(150, 150, 225);
-      padding-left: 500px;
-      padding-right: 600px;
-      padding-top: 300px;  
-      padding-bottom: 400px;    
+.parent{
+      display: flex;
+      flex-direction: column-reverse;
+      row-gap: 50px;
 
+}
+
+.Kriti{
+      display: flex;
+      flex-direction: column-reverse;
+      row-gap: 40px;
+      
       
 }
 
-.HI{
-      width: 200px;
-      background-color: blanchedalmond;
-      display: inline-block;
-}
+.Newelement{
+      display: flex; 
+      column-gap: 50px;
+      
 
-.Hi{
-      display: inline;
-      height: 500px;
 }
 
