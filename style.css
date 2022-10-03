@@ -1,22 +1,18 @@
+.backgroundcolor{
+      background-color: aqua;
+      height: 200px;
+      width: 50%;
+      color: blue;
+      margin-top: 50px;
+      padding-top: 50px;
+      margin-left: 50px;
+      padding-left: 50px;
+
+}
+
 .parent{
       display: flex;
-      flex-direction: column-reverse;
-      row-gap: 50px;
+      column-gap: 20px;
+     
 
 }
-
-.Kriti{
-      display: flex;
-      flex-direction: column-reverse;
-      row-gap: 40px;
-      
-      
-}
-
-.Newelement{
-      display: flex; 
-      column-gap: 50px;
-      
-
-}
-
