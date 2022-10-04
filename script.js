@@ -1,11 +1,11 @@
-var number1 = 9;
-var number2 = 8;
-var finalresult = number1 * number2;
+var myname = "Kriti shrestha";
+console.log(myname)
 
+var myfriendname = "Ekindra Bhusal";
+console.log(myfriendname)
 
-document.getElementById("javascriptbtn").addEventListener("hover", displaymyname);
+var myage = 22;
+console.log(myage)
 
-function displaymyname(){
-      alert("the addition of two number result is" + finalresult)
-}
-
+var mycountry = "Nepal";
+console.log(mycountry)
