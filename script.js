@@ -1,11 +1,4 @@
-var myname = "Kriti shrestha";
-console.log(myname)
-
-var myfriendname = "Ekindra Bhusal";
-console.log(myfriendname)
-
-var myage = 22;
-console.log(myage)
-
-var mycountry = "Nepal";
-console.log(mycountry)
+var numberone = 10;
+var numbertwo = 20;
+var result = numberone * numbertwo;
+console.log(result);
