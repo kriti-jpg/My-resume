@@ -1,18 +1,11 @@
-var clickyourbutton = document.getElementById('Mybutton');
-console.log(clickyourbutton)
-clickyourbutton.addEventListener('click',function(e) {
-      alert('Click your button');
-});
+var Myworld = document.getElementById('World');
+console.log(Myworld)
 
+var Namesss = document.getElementById('Name');
+console.log(Namesss)
 
-var enterbutton = document.getElementById('Pressme');
-console.log(enterbutton)
-enterbutton.addEventListener('click',function(e) { 
-alert('Press the button!!!')
-});
+var Frndname = document.getElementById('Friendname');
+console.log(Frndname)
 
-var entryme = document.getElementById('Enterbutton');
-console.log(entryme)
-entryme.addEventListener('click',function(e){
-      alert('Enter your name please');
-});
+var hobbi = document.getElementById('Hobby');
+console.log(hobbi)
