@@ -1,11 +1,12 @@
-var Myworld = document.getElementById('World');
-console.log(Myworld)
+var myName = "Kriti Shrestha";
+var myAge = 22;
+var isGirl = false;
+var isKritiModel = false;
+var isJaiRoadie = true;
 
-var Namesss = document.getElementById('Name');
-console.log(Namesss)
-
-var Frndname = document.getElementById('Friendname');
-console.log(Frndname)
-
-var hobbi = document.getElementById('Hobby');
-console.log(hobbi)
+if(isJaiRoadie){
+      console.log("Jai is a Roadies")
+}
+else{
+      console.log("Jai is not a Roadie")
+}
