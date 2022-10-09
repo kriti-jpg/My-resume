@@ -1,12 +1,28 @@
-var myName = "Kriti Shrestha";
-var myAge = 22;
-var isGirl = false;
-var isKritiModel = false;
-var isJaiRoadie = true;
+var isWeekDay = "Friday";
 
-if(isJaiRoadie){
-      console.log("Jai is a Roadies")
+if(isWeekDay == "Monday"){
+      console.log("Today is Monday")
+      
 }
-else{
-      console.log("Jai is not a Roadie")
+else if(isWeekDay == "Tuesday"){
+      console.log("Today is Tuesday")
+}
+
+else if(isWeekDay == "Wednesday"){
+      console.log("Today is Wednesday")
+}
+else if(isWeekDay == "Thursday"){
+      console.log("Today is Thursday")
+}
+
+else if(isWeekDay == "Friday"){
+      console.log("Today is Friday")
+
+}
+else if(isWeekDay == "Saturday"){
+      console.log("Today is Saturday")
+}
+
+else if(isWeekDay == "Sunday"){
+      console.log("Today is Sunday")
 }
