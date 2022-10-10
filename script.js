@@ -1,13 +1,15 @@
-var numberone = 1;
-var numbertwo = 2;
-var sum = numberone + numbertwo;
-var numone = 8;
-var numtwo = 4;
-var subtract = numone - numtwo;
+function Addtwonumber(Myname,Myage,Country,Place){
+      console.log(`My name is ${
+            Myname
+      } My age is ${
+            Myage
+      } My country is ${
+            Country
+      } My placee is ${
+            Place
+      }`)
 
 
-var one = 9;
-var two = 9;
-var multiply = one * two;
-console.log(multiply)
+}
 
+Addtwonumber("Kriti Shrestha",22,"Nepal","Pokhara")
