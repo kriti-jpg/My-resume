@@ -1,15 +1,4 @@
-function Addtwonumber(Myname,Myage,Country,Place){
-      console.log(`My name is ${
-            Myname
-      } My age is ${
-            Myage
-      } My country is ${
-            Country
-      } My placee is ${
-            Place
-      }`)
-
-
+function Addtwonum(number1,number2){
+console.log(number1 * number2)
 }
-
-Addtwonumber("Kriti Shrestha",22,"Nepal","Pokhara")
+Addtwonum(9,1)
