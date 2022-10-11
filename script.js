@@ -1,6 +1,7 @@
-var myname = "Kriti";
-var mypetname = "Krti";
-
-var myage = 22;
-var yourage = 24;
-console.log(yourage > myage)
+var iskritigirl = 2
+if(iskritigirl == 2){
+      console.log("Yes Kriti is a girl")
+}
+else{
+      console.log("error")
+}
