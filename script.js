@@ -1,6 +1,6 @@
-function Addtwonum(number1,number2){
-console.log(`if we multiplied number1 and number2 we will get result as ${number1 * number2 } 
+var myname = "Kriti";
+var mypetname = "Krti";
 
-`)
-}
-Addtwonum(9,2)
+var myage = 22;
+var yourage = 24;
+console.log(yourage > myage)
