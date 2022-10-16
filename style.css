@@ -1,27 +1,8 @@
-/* .backgroundcolor{
-      background-color: aqua;
-      height: 200px;
-      width: 50%;
-      color: blue;
-      margin-top: 50px;
-      padding-top: 50px;
-      margin-left: 50px;
-      padding-left: 50px;
-
+.Box{
+      margin-top: 200px;
+      margin-left: 200px;
 }
-
-.parent{
-      display: flex;
-      column-gap: 20px;
-     
-
-} */
-
-
-
-
-#header{
-      background-color: green;
-      color: white;
-      text-align: center;
+.buton{
+      margin-top: 200px;
+      
 }
