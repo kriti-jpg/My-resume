@@ -1,8 +1,20 @@
-.Box{
-      margin-top: 200px;
-      margin-left: 200px;
+.container{
+      width: 200px;
+      height: 200px;
+      background-color: cadetblue;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 }
-.buton{
-      margin-top: 200px;
+.box{
+      width: 100px;
+      height: 100px;
+      background-color: chartreuse;
       
+
+    transform: rotate(360deg);
+    /* border-radius: 9999px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
